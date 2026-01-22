@@ -1,11 +1,12 @@
-📊 Customer Behavior Analysis Project
+## 📊 Customer Behavior Analysis Project
 ✅ Overview
 
 This project analyzes customer purchase behavior to uncover insights that support business decision-making. It includes data loading, exploratory data analysis (EDA), data cleaning, running SQL queries on a MySQL Server, building a Power BI dashboard, and creating a final report.
 
 The goal of this analysis is to understand customer patterns, preferences, and trends to help improve marketing, sales strategies, and customer engagement.
 
-📁 Dataset
+
+#📁 Dataset
 
 The dataset contains customer transaction records with the following key fields:
 
